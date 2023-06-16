@@ -1,0 +1,10 @@
+[
+    {"nama": "Kubus", "rumus": "V = s x s x s", "imageResId": "kubus"},
+    {"nama": "Balok", "rumus": "V = p x l x t", "imageResId": "balok"},
+    {"nama": "Tabung", "rumus": "V = π x r² x t", "imageResId": "tabung"},
+    {"nama": "Kerucut", "rumus": "V = 1/3 x π x r² x t", "imageResId": "kerucut"},
+    {"nama": "Bola", "rumus": "V = 4/3 x π x r³", "imageResId": "bola"},
+    {"nama": "Limas Segitiga", "rumus": "V = 1/3 x luas alas x t", "imageResId": "limassegitiga"},
+    {"nama": "Limas Segiempat", "rumus": "V = 1/3 x luas alas x t", "imageResId": "limassegiempat"},
+    {"nama": "Prisma Segitiga", "rumus": "(1/2 x a x t) x tinggi prisma", "imageResId": "prismasegitiga"}
+]
